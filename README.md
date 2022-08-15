@@ -1,9 +1,9 @@
 # Python_Library_Project
 
 ## Prepared by:
-Ayax Díaz - (Student Nr: 435047)
-
 Mustafa SANLI – (Student Nr: 436656)
+
+Ayax Díaz - (Student Nr: 435047)
 
 ## Project Description
 
@@ -44,3 +44,4 @@ The ``Borrowed_at`` column shows the date from when the book was chosen.
 
 ``User`` Table: Stores information about users, it includes ``email``, ``first_name``, ``last_name``, ``password``, ``logged_in``, ``last_seen`` and ``is_admin`` as a columns.
 
+![img](./DB_Structure.jpg)
